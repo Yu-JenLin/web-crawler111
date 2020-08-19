@@ -1,0 +1,4 @@
+flask
+apiai
+pymongo
+dnspython
